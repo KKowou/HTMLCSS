@@ -1,0 +1,105 @@
+
+h1 {
+text-align: center;
+margin-bottom: 50px;
+color: grey;
+}
+
+h2 {
+text-align: center;
+margin-bottom: 50px;
+color: red;
+}
+
+h3 {
+text-align: center;
+margin-bottom: 50px;
+color: green;
+}
+
+caption {
+font-weight: bold;
+text-align: center;
+margin-bottom: 30px;
+color: rgb(36, 68, 92);
+}
+
+
+ul {
+font-size: 18px;
+list-style-type: none;
+}
+
+li {
+float: left;
+display: block;
+color: white;
+text-align: center;
+padding: 14px 16px;
+text-decoration: none;
+}
+
+li a {
+display: block;
+color: white;
+text-align: center;
+padding: 14px 16px;
+text-decoration: none;
+}
+
+
+body { font-family: "Helvetica Neue"; font-size: 20px; font-style: normal; font-variant: normal; line-height: 20px; margin-bottom : 100px; } 
+
+td a:link, td a:visited {
+text-decoration: underline;
+color: rgb(36, 68, 92);
+}
+
+
+td a:hover {
+text-decoration: none;
+color: rgb(36, 68, 92);
+}
+
+p a:link, p a:visited {
+text-decoration: underline;
+color: rgb(36, 68, 92);
+}
+
+
+p a:hover {
+text-decoration: none;
+color: rgb(36, 68, 92);
+}
+
+
+
+.Affichage {
+text-align: center;
+}
+
+.tableT {
+text-align: center;
+width: 900px;
+margin : auto;
+}
+
+th {
+padding:30px;
+width : 10 %;
+}
+
+td {
+padding:10px;
+width : 10 %;
+}
+
+
+caption {
+margin-bottom: 5px;
+}
+
+
+
+
+
